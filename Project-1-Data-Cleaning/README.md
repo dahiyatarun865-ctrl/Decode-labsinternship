@@ -16,3 +16,10 @@ Clean the raw dataset by handling missing values, removing duplicates, and corre
 
 ## Status
 Completed
+## Screenshots
+
+### Change Log
+![](IMG-20260623-WA0003.jpg)
+
+### Cleaned Dataset
+![](IMG-20260623-WA0002.jpg)
