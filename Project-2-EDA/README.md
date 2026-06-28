@@ -24,3 +24,16 @@ Perform Exploratory Data Analysis on the e-commerce dataset to identify trends, 
 
 ## Status
 Completed
+## Screenshots
+
+### 1
+![](IMG-20260628-WA0052.jpg)
+
+### 2
+![](IMG-20260628-WA0053.jpg)
+
+### 3
+![](IMG-20260628-WA0054.jpg)
+
+### 4
+![](IMG-20260628-WA0055.jpg)
